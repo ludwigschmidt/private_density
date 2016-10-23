@@ -11,6 +11,6 @@ The code is written in Julia (v0.5). The script [`src/histogram_experiment.jl`](
 
 For an example of how to use the code, see the Jupyter notebook [`examples/histogram_approximation.ipynb`](https://github.com/ludwigschmidt/private_density/blob/master/examples/histogram_approximation.ipynb).
 
-![](https://cdn.rawgit.com/ludwigschmidt/private_density/36b39972fa4116c022d587af6aff6d2d91426ec6/output/gmm.svg) ![](https://cdn.rawgit.com/ludwigschmidt/private_density/36b39972fa4116c022d587af6aff6d2d91426ec6/output/non_private.svg) ![](https://cdn.rawgit.com/ludwigschmidt/private_density/36b39972fa4116c022d587af6aff6d2d91426ec6/output/private.svg)
+![](https://cdn.rawgit.com/ludwigschmidt/private_density/4076613c8cfd6699b2f5ba0924d3cc9f4f461c00/output/gmm.svg) ![](https://cdn.rawgit.com/ludwigschmidt/private_density/4076613c8cfd6699b2f5ba0924d3cc9f4f461c00/output/non_private.svg) ![](https://cdn.rawgit.com/ludwigschmidt/private_density/4076613c8cfd6699b2f5ba0924d3cc9f4f461c00/output/private.svg)
 
 The three plots above are generated in the notebook [`examples/website_plots.ipynb`](https://github.com/ludwigschmidt/private_density/blob/master/examples/website_plots.ipynb).
