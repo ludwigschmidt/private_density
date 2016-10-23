@@ -10,3 +10,5 @@ This package contains the algorithm and experiments for the following paper:
 The code is written in Julia (v0.5). The script `src/histogram_experiment.jl` runs the experiments in the paper for synthetic distributions (mixtures of Gaussian, Beta, and Gamma distributions).
 
 For an example of how to use the code, see the Jupyter notebook `src/histogram_approximation.ipynb`.
+
+![](https://cdn.rawgit.com/ludwigschmidt/private_density/master/output/gmm.svg) ![](https://cdn.rawgit.com/ludwigschmidt/private_density/master/output/non_private.svg) ![](https://cdn.rawgit.com/ludwigschmidt/private_density/master/output/private.svg)
