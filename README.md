@@ -13,4 +13,4 @@ For an example of how to use the code, see the Jupyter notebook `src/histogram_a
 
 ![](https://cdn.rawgit.com/ludwigschmidt/private_density/36b39972fa4116c022d587af6aff6d2d91426ec6/output/gmm.svg) ![](https://cdn.rawgit.com/ludwigschmidt/private_density/36b39972fa4116c022d587af6aff6d2d91426ec6/output/non_private.svg) ![](https://cdn.rawgit.com/ludwigschmidt/private_density/36b39972fa4116c022d587af6aff6d2d91426ec6/output/private.svg)
 
-The example plots above are generated in the notebook `src/website_plots.ipynb`.
+The three plots above are generated in the notebook `src/website_plots.ipynb`.
