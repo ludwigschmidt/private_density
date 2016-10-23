@@ -1,2 +1,5 @@
+.DS_Store
 *.swp
 .ipynb_checkpoints
+examples/*.svg
+src/histogram_results_gmm.json
